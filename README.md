@@ -4,6 +4,7 @@ Um Projeto para aprender a como usar o framework dash do python para criação d
 # Tecnologias Utilizadas
 
 - Python
+  - Framework Dash, um framework de python para criar dashboards em python
 - HTML
 
 # Imagens do Projeto
